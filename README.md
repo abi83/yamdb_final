@@ -10,8 +10,8 @@ authentication. Managing users allow only for admin.
 
 Project link: http://yamdb.kromm.info/
 
-Dockerfile and docker-compose.yaml files is in source code, for quick deploy.
-Fixture command is also included:
+Dockerfile and docker-compose.yaml files are in source code, for quick deploy.
+Fixture commands are also included:
 `python manage.py create-users` and `python manage.py populate-titles`
 
-I hope this project would be useful for next generation Yandex.Practicum students and to anyone studying Python
+    I hope this project would be useful for next generation Yandex.Practicum students and for everyone who studies Python
