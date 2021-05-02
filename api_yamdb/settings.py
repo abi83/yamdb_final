@@ -10,7 +10,7 @@ DEBUG = False
 
 ALLOWED_HOSTS = [
     '.kromm.info',
-    'localhost',
+    '178.154.209.27',
 ]
 
 INSTALLED_APPS = [
