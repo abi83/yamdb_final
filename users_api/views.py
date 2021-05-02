@@ -82,7 +82,7 @@ class UsersViewSet(viewsets.ViewSetMixin,
                    generics.GenericAPIView,):
     """
     Users List (for admins only), Send PATCH request to /api/v1/users/me/
-    for editing your own profile.
+    for editing your own profile
     """
     queryset = YamdbUser.objects.all()
     serializer_class = UserSerializer
