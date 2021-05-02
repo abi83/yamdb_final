@@ -16,4 +16,4 @@ Fixture commands are also included:
 
 I hope this project would be useful for next generation Yandex.Practicum students and for everyone who studies Python
 
-https://github.com/abi83/yamdb_final/actions/workflows/yamdb_workflow/badge.svg
+https://github.com/abi83/yamdb_final/actions/workflows/yamdb_workflow.yaml/badge.svg
