@@ -14,4 +14,6 @@ Dockerfile and docker-compose.yaml files are in source code, for quick deploy.
 Fixture commands are also included:
 `python manage.py create-users` and `python manage.py populate-titles`
 
-    I hope this project would be useful for next generation Yandex.Practicum students and for everyone who studies Python
+I hope this project would be useful for next generation Yandex.Practicum students and for everyone who studies Python
+
+https://github.com/abi83/yamdb_final/actions/workflows/yamdb_workflow/badge.svg
